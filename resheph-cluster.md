@@ -101,3 +101,19 @@ On the edges of habited space, in the voids where the typical pilot would not ev
 ### **Stats**
 
 [ Wealth 0 ] [ Crime 3 ] [ Tech 1 ] [ Weird 2 ]
+
+### *Horizon's Harbor*
+
+The *Harbor* is the largest ship in the Cynosure, a sprawling station affixed with engines mighty enough to power it into the void. In a bygone era, *Horizon's Harbor* orbited the core world of Tarka, but its residents chose to abandon the doomed planet rather than share its fate or be drawn into its shield. The fleet now orbits around its wandering *Harbor*, whose people pay well for reminders of home.
+
+### *Lodestar Unending*
+
+Projecting a transport signal across empty space is impossible. There has never been a mobile waypoint along the Gate Circuit in its centuries of existence. Yet the *Lodestar Unending* does just that: broadcast the beacon of the Vagabond Cynosure to those daring or foolish enough to follow it.
+
+### *Barak-Tor*
+
+After a half-dozen tours of duty on the frontlines of Makedo, Commander Alendis Emyrreon had a realization. Her place was not in these charnel fields on the Pandoran Blockade, but safeguarding civilians from the dangers of the endless void. She turned her ship and crew in the direction of the Cynosure and has watched over the fleet ever since.
+
+### *Cyn of the Times*
+
+When a scoundrel seeks diversion, drink, and details for a job, they tend to head towards the *Cyn of the Times*. This modified pleasure cruiser boasts the best night life in the fleet, and without a sun to orbit around, the party never stops.
