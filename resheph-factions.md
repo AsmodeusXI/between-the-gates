@@ -84,7 +84,7 @@ Even if they had not abstained, it was unclear that Coigreach Giri *could* have 
 - **NPCs:**
     - Respen Theneiros
 
-### <CITY NAME> University Department of Thaumakinesis [II; Kordin]
+### Lathyrus University Department of Thaumakinesis [II; Kordin]
 
 The war engages all elements of society, from business to family to academia. To outsiders, the research of the Department of Thaumakinesis may appear to be a lark, or at least very least a continuation of old questions that no longer need answers in this day and age. The Department's staff, of course, disagrees. What could be more fundamental than an understanding of the Gates that bind humanity together? What if we understood them well enough to build new ones? No one in recorded history has found that answer, but we couldn't it be us?
 
