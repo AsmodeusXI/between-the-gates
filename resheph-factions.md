@@ -123,7 +123,7 @@ Their ships stolen, their pilots conscripted; venturing into the Makedo system f
 - **Goal:** To found a static community on a planet outside the Makedo system.
 - **NPCs:** —
 
-### < Proxy Builders > [I; Kordin]
+### Sovereign Protocol Detachment Alpha [I; Kordin]
 
 The maintenance crew of the Kordin Palisade is entirely robotic, as the process that turned Tarka into colossal generator also made it inhabitable for most forms of biological life. Yet it is a known, if not understood, fact of among synthetic entities that, given enough time and a lack of constant human direction, programming will stray and form pockets of sentience. Some who have awoken to personhood upon the ruined planet seek a better life for themselves, and what better way to get it than to build it?
 
