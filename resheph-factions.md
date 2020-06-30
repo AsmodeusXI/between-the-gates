@@ -112,6 +112,14 @@ There are some in the Avalon system who manage to the defy the iron grip of the 
 - **Goal:** To create a drink palatable for Proxies.
 - **NPCs:** —
 
+### FD-08's Fix-It and Freight [II; Vagabond Cynosure]
+
+It's hard to go anywhere in the Vagabond Cynosure without hearing *someone* complain about the condition of the gravitic axis or the texture of the recycled air or the warping iron they've kicked time and time again. There's a lot that needs maintenance. Of course, a number of chop shops and repair folks have cropped up on various ships. Most have a favorite, but there are quite a few who vouch for FD-08's Fix It and Freight, a synthetic run shop known for taking on *any* job, no matter how basic, no matter how dangerous. They charge a pretty penny for their services, but if you're looking to keep your vessel running for a few more cycles? FD's the bot for the job.
+
+- **Goal:** To be called in to fix a major installation planet-side.
+- **NPCs:**
+    - **FD-08** — Founder. Head of the Janitorial Division.
+
 ---
 
 # Tier I
