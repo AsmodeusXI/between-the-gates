@@ -105,6 +105,13 @@ There are some in the Avalon system who manage to the defy the iron grip of the 
 - **Goal:** Invoke Asaph's presence to heal the warriors of the Cluster.
 - **NPCs:** —
 
+### Palamedes' Distillery [II; Avalon]
+
+"From the Fruits of the Fields of Avalon!" The slogan of Palamedes is known throughout the Cluster, just as their beverages are. Sure, some of the Pandoran ships brew more "efficient" swill in between battles. Yes, there are breweries on Kastell that take full advantage of the searing heat of their sister planet to grow or age their unique intoxicants. Certainly, there are alehouses and pubs a plenty all across Vulgate, selling every manner of beer, liquor, and wine. But for the *discerning* consumer, there is the Palamedes' Distillery. *Their* brews are the *best* in the Cluster.
+
+- **Goal:** To create a drink palatable for Proxies.
+- **NPCs:** —
+
 ---
 
 # Tier I
