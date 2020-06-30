@@ -71,6 +71,13 @@ The technicians and arcanists of the *Lodestar Unending* carry a reputation that
 - **Goal:** To build a suitable decoy signal to throw off potential aggressors.
 - **NPCs:**
     - Chief Engineer Sabelia Farol
+    
+### Prominence [III; Vagabond Cynosure]
+
+Of the scofflaws and brigands that comprise the Vagabond Cynosure, the most daring and violent are hail from the organization known as Prominence. There are few would would dare to cross those wearing Prominence regalia on any ship in the Cynosure fleet, unless they had a mind to prove their worth to the power-hungry gang. Yet for their garrulous appearances and condescending swagger, the members of Prominence are caretakers of the fleet, just as they are scourges of the worlds of the Cluster. A common bond of vengeance keeps Prominence eager to strike out at the Cluster worlds, taking advantage of the Inference's crushing vice.
+
+- **Goal:** To steal a capital ship.
+- **NPCs:** —
 
 ---
 
