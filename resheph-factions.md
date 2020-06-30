@@ -116,9 +116,9 @@ Maizie was a relatively obscure pop artist on Vulgate before being picked up on 
 - **Goal:** Find new musical inspiration.
 - **NPCs:** —
 
-### < Detained Wanderers > [I; Makedo]
+### Ten'ulch Dakhin [I; Makedo]
 
-Their ships stolen, their pilots conscripted; venturing into the Makedo system felt like a definitive end to the < Wanderer > way of life, even for those who were spared the most direct consequences. For a time, the community fractured and faltered. The < Wanderers > became a people who path succumbed to the all-consuming military might of Pandora's Vanguard. Yet in recent years, some have banded together with new purpose. The end of their travels does not mean the end of the < Wanderers >. It means a change. It means that it is time to build once again, if for no other reason than to defy those who took so much from them in the first place.
+Their ships stolen, their pilots conscripted; venturing into the Makedo system felt like a definitive end to the Ten'ulch way of life, even for those who were spared the most direct consequences. For a time, the community fractured and faltered. The Ten'ulch became a people who path succumbed to the all-consuming military might of Pandora's Vanguard. Yet in recent years, some have banded together with new purpose. The end of their travels does not mean the end of the Ten'ulch. It means a change. It means "Dakhin". It means that it is time to build once again, if for no other reason than to defy those who took so much from them in the first place.
 
 - **Goal:** To found a static community on a planet outside the Makedo system.
 - **NPCs:** —
