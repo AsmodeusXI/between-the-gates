@@ -129,3 +129,10 @@ The maintenance crew of the Kordin Palisade is entirely robotic, as the process 
 
 - **Goal:** Build bodies that allow the maintenance crew to leave Tarka, and possibly the system.
 - **NPCs:** —
+
+### The Severed [I; Cé Vanri]
+
+The Conjugate rarely speaks of its rebellious splinters. In fact, it would prefer they did not exist, that they were snuffed out so as to properly preserve the harmony of the Conjugate. Luckily, little escapes Cé Vanri outside of the Conjugate's notice, so there are few who even know of this isolated band. Yet they exist. A coigreach in all but name: those who have escaped the Conjugate's network and returned to the isolation of singular egos. Reports vary wildly on why any sliver of the Conjugate would choose to leave, much less how they'd do it. Yet the Severed share a rare and dangerous heritage. A past that hunts them with singular focus.
+
+- **Goal:** To gather their kin and escape Cé Vanri.
+- **NPCs:** —
