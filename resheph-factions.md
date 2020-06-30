@@ -91,6 +91,13 @@ The war engages all elements of society, from business to family to academia. To
 - **Goal:** To unearth the lost secrets of the Gates.
 - **NPCs:** —
 
+### The Vital Breath of Asaph [II; Avalon]
+
+There are some in the Avalon system who manage to the defy the iron grip of the Order of Ancyra. One such faction is the Vital Breath of Asaph, an ancient dragon cult of herbalists and healers. Of course, the so-called "dragons" are a suspicion best left to fools. Even if they did exist, it was in a time and place far removed from the Resheph Cluster and its worlds. Nevertheless, the sign of Asaph, subtle as it might appear in the alleyways or hidden fields or lonely moons of Vulgate, is an indicator of a place for wounds to be mended and care to be given. Perhaps this is why Ancyra allows their heretical ways to endure.
+
+- **Goal:** Invoke Asaph's presence to heal the warriors of the Cluster.
+- **NPCs:** —
+
 ---
 
 # Tier I
