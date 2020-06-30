@@ -110,7 +110,7 @@ The *Harbor* is the largest ship in the Cynosure, a sprawling station affixed wi
 
 Projecting a transport signal across empty space is impossible. There has never been a mobile waypoint along the Gate Circuit in its centuries of existence. Yet the *Lodestar Unending* does just that: broadcast the beacon of the Vagabond Cynosure to those daring or foolish enough to follow it.
 
-### *Barak-Tor*
+### *Waxen Antiphon*
 
 After a half-dozen tours of duty on the frontlines of Makedo, Commander Alendis Emyrreon had a realization. Her place was not in these charnel fields on the Pandoran Blockade, but safeguarding civilians from the dangers of the endless void. She turned her ship and crew in the direction of the Cynosure and has watched over the fleet ever since.
 
